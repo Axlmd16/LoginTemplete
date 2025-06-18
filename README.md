@@ -1,4 +1,4 @@
-# SportBoard - Login UI
+![image](https://github.com/user-attachments/assets/78164386-f2cd-426f-a74e-d1725849f2c0)# SportBoard - Login UI
 
 Este proyecto es una interfaz de usuario moderna para la autenticación de usuarios en una plataforma llamada **SportBoard**. Incluye formularios para iniciar sesión, recuperar contraseña y crear una nueva cuenta, todo con animaciones suaves y un diseño atractivo.
 
@@ -24,6 +24,14 @@ Este proyecto es una interfaz de usuario moderna para la autenticación de usuar
   - Transiciones suaves entre formularios (login, recuperación y registro).
   - Diseño responsivo y moderno, con colores oscuros y detalles en azul vibrante.
   - Iconos SVG en los campos de entrada y botones sociales.
+ 
+- **Capturas de pantalla**
+![image](https://github.com/user-attachments/assets/4bba48ea-4b1d-47ca-a8bc-f56d3b559469)
+![image](https://github.com/user-attachments/assets/083b837a-f55b-4812-8bb7-f3662644d641)
+![image](https://github.com/user-attachments/assets/52b62470-76b4-4694-b098-d2212de66a60)
+
+
+
 
 ## Archivos principales
 
@@ -46,4 +54,3 @@ Este proyecto es una interfaz de usuario moderna para la autenticación de usuar
 
 ---
 
-¡Disfruta de tu interfaz de autenticación moderna para SportBoard!
