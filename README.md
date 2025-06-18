@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/78164386-f2cd-426f-a74e-d1725849f2c0)# SportBoard - Login UI
+# SportBoard - Login UI
 
 Este proyecto es una interfaz de usuario moderna para la autenticación de usuarios en una plataforma llamada **SportBoard**. Incluye formularios para iniciar sesión, recuperar contraseña y crear una nueva cuenta, todo con animaciones suaves y un diseño atractivo.
 
